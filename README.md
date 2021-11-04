@@ -21,7 +21,13 @@ This application uses Express.js to retrieve, write, save, and delete notes.This
 
 Deployed Heroku Link : [heroku link](https://obscure-hamlet-87275.herokuapp.com/)
 
-![Gif Demo](./gif.gif)
+![Gif Demo](note1.GIF)
+
+![Gif Demo](note2.GIF)
+
+![Gif Demo](note3.GIF)
+
+![Gif Demo](note4.GIF)
 ----
 ### Installation
 🔧npm init , npm i express --save, npm start. Make sure Node.js is already installed. Install Insomnia and Heroku.
