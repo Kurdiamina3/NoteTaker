@@ -5,6 +5,16 @@ body {
   padding: 0;
 }
 
+h1.display-4 {
+  font-size: 60pt;
+  letter-spacing: 1.5pt;
+}
+
+h4.subtitle {
+  font-size: 30pt;
+  letter-spacing: 1pt;
+}
+
 .save-note {
   display: none;
 }
@@ -75,4 +85,14 @@ body {
   border-right: none;
   padding: 20px;
   cursor: pointer;
+  font-size: 24pt;
+  letter-spacing: 1pt;
+}
+
+.nav-bg {
+  background-color: #c99351;
+}
+
+.container-bg {
+  background-color: #87b094;
 }
